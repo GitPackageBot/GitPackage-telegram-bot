@@ -1,12 +1,11 @@
 # GitPackage: Loves C-style
-<div align="center">
-	<a href="https://t.me/GitPackageBot">
-		<img type="image/png" width="800" height="300" src="./assets/img/background.png" alt="GitHub Package"/>
-	</a>
-</div>
+This bot will help you get up-to-date information about repositories in GitHub. 
+You can talk to the author of this project on Telegram.
 
-## Description
-Hello there, the organization was created to develop in the IT industry: "together".
+Project creation date: 02.08.2021 (snxx).
+
+##### Guide:
+1. [FAQ](https://github.com/GitPackageBot/GitPackage-telegram-bot/wiki/GitPackageSupport-%5BFAQ%5D)
 
 ## Link to us
 - Telegram: [@GitPackageSupport](https://t.me/GitPackageSupport)
