@@ -1,5 +1,5 @@
 # GitPackage: Loves C-style
-![Header](./assets/img/background.png)
+<img type="image/png" width="800" height="300" src="./assets/img/background.png" alt="GitHub Package"/>
 
 ## Description
 Hello there, the organization was created to develop in the IT industry: "together".
