@@ -1,5 +1,9 @@
 # GitPackage: Loves C-style
-<img type="image/png" width="800" height="300" src="./assets/img/background.png" alt="GitHub Package"/>
+<div align="center">
+	<a href="https://t.me/GitPackageBot">
+		<img type="image/png" width="800" height="300" src="./assets/img/background.png" alt="GitHub Package"/>
+	</a>
+</div>
 
 ## Description
 Hello there, the organization was created to develop in the IT industry: "together".
